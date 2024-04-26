@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "List Sorter",
+        "submenu": [
+          {
+            "label": "Sort ascending",
+            "command": "list-sorter:ascending"
+          },
+          {
+            "label": "Sort descending",
+            "command": "list-sorter:descending"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "List Sorter",
+          "submenu": [
+            {
+              "label": "Sort ascending",
+              "command": "list-sorter:ascending"
+            },
+            {
+              "label": "Sort descending",
+              "command": "list-sorter:descending"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

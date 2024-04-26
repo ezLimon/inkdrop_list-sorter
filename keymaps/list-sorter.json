@@ -1,0 +1,6 @@
+{
+  ".CodeMirror textarea": {
+    "ctrl-alt-down": "list-sorter:ascending",
+    "ctrl-alt-up": "list-sorter:descending"
+  }
+}
