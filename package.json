@@ -1,12 +1,12 @@
 {
   "name": "list-sorter",
   "main": "./lib/index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sort the current list where the cursor is.",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git@github.com:ezLimon/inkdrop_list-sorter.git"
+    "url": "ezLimon/inkdrop_list-sorter.git"
   },
   "license": "MIT",
   "engines": {
