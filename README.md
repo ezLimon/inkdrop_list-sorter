@@ -10,13 +10,11 @@ Sort the list where the cursor is, in ascending or descending order.
 - The plugin is not considering empty lines OR lines not starting with the allowed symbols.
 - The algorithm follows the initial order of your list's items to detect and keep sub lists.
 - Not case-sensitive.
-### Examples
-| Sort Type  | List                                                                                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------ |
-| Initial    | ![Screenshot](https://raw.githubusercontent.com/ezLimon/inkdrop_list-sorter/master/images/initial.png) |
-| Ascending  | ![Screenshot](https://raw.githubusercontent.com/ezLimon/inkdrop_list-sorter/master/images/asc.png)     |
-| Descending | ![Screenshot](https://raw.githubusercontent.com/ezLimon/inkdrop_list-sorter/master/images/desc.png)    |
 
+### Examples
+| Initial List                                                                                           | Sort Ascending                                                                                     | Sort Descending                                                                                     |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![Screenshot](https://raw.githubusercontent.com/ezLimon/inkdrop_list-sorter/master/images/initial.png) | ![Screenshot](https://raw.githubusercontent.com/ezLimon/inkdrop_list-sorter/master/images/asc.png) | ![Screenshot](https://raw.githubusercontent.com/ezLimon/inkdrop_list-sorter/master/images/desc.png) | 
 
 
 ### Keybindings
